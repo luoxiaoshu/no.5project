@@ -1,0 +1,2 @@
+Today we learn how to use git.
+Git is wonderful software for students.
